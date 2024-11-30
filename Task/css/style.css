@@ -1,3 +1,5 @@
-qld{
-    justify-content: center;
+ul li:hover{
+    background-color: rgb(65, 193, 65);
+    transition: 0.5s;
+    border-radius: 4px;
 }
